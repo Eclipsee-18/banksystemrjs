@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "banksystemrjs", "reactproject1\banksystemrjs.esproj", "{421B9207-85E6-4474-9365-4D94DD01C52F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{421B9207-85E6-4474-9365-4D94DD01C52F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421B9207-85E6-4474-9365-4D94DD01C52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421B9207-85E6-4474-9365-4D94DD01C52F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{421B9207-85E6-4474-9365-4D94DD01C52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421B9207-85E6-4474-9365-4D94DD01C52F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421B9207-85E6-4474-9365-4D94DD01C52F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79BE9AF6-F1C0-4F63-82C6-BF50B1B8130A}
+	EndGlobalSection
+EndGlobal
